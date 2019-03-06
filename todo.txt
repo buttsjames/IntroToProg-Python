@@ -1,0 +1,6 @@
+Eat Dinner, Medium
+Get Mail, High
+Eat Lunch, Low
+Go to Bed, Low
+Submit Homework, High
+Eat Breakfast, Low
