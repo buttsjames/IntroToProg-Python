@@ -146,7 +146,7 @@ def remove_item(dict):
 
 
 """
-A script to keep an task list. Maintain a list of tasks and their priority.
+A script to keep a task list. Maintain a list of tasks and their priority.
 
 Here's the main input loop. Present users menu options to list current data, add, delete, and save changes to the file.
 
